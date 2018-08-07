@@ -1,0 +1,49 @@
+
+#EXTM3U
+
+#EXTINF:-1,UK: BT Sport 1 HD
+http://iptvtool.es:9977/live/CAMI/CAMI/27096.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://iptvtool.es:9977/live/CAMI/CAMI/27095.ts
+#EXTINF:-1,UK: BT Sport 3 HD
+http://iptvtool.es:9977/live/CAMI/CAMI/27094.ts
+#EXTINF:-1,UK: BT Sport Extra 1
+http://iptvtool.es:9977/live/CAMI/CAMI/27093.ts
+#EXTINF:-1,UK: Sky Sport Action HD
+http://iptvtool.es:9977/live/CAMI/CAMI/27092.ts
+#EXTINF:-1,UK: Sky Sport Arena HD
+http://iptvtool.es:9977/live/CAMI/CAMI/27088.ts
+#EXTINF:-1,UK: Sky Sport F1 FHD
+http://iptvtool.es:9977/live/CAMI/CAMI/27087.ts
+#EXTINF:-1,UK: Sky Sport Football HD
+http://iptvtool.es:9977/live/CAMI/CAMI/27084.ts
+#EXTINF:-1,UK: SKY SPORT MIX
+http://iptvtool.es:9977/live/CAMI/CAMI/27086.ts
+#EXTINF:-1,UK: SKY SPORTS CRICKET HD
+http://iptvtool.es:9977/live/CAMI/CAMI/27091.ts
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://iptvtool.es:9977/live/CAMI/CAMI/27097.ts
+#EXTINF:-1,UK: SKY SPORTS GOLF HD
+http://iptvtool.es:9977/live/CAMI/CAMI/27090.ts
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT HD
+http://iptvtool.es:9977/live/CAMI/CAMI/27089.ts
+#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE FHD
+http://iptvtool.es:9977/live/CAMI/CAMI/27085.ts
+#EXTINF:-1,UK: SKY Atlantic HD
+http://iptvtool.es:9977/live/CAMI/CAMI/27115.ts
+#EXTINF:-1,UK: Sky Box Nation (PPV Events Only)
+http://iptvtool.es:9977/live/CAMI/CAMI/27118.ts
+#EXTINF:-1,UK: Sky Cinema Action HD
+http://iptvtool.es:9977/live/CAMI/CAMI/27135.ts
+#EXTINF:-1,UK: Sky Cinema Comedy HD
+http://iptvtool.es:9977/live/CAMI/CAMI/27134.ts
+#EXTINF:-1,UK: Sky Cinema Crime & Thriller HD
+http://iptvtool.es:9977/live/CAMI/CAMI/27133.ts
+#EXTINF:-1,UK: Sky Cinema Disney HD
+http://iptvtool.es:9977/live/CAMI/CAMI/27132.ts
+#EXTINF:-1,UK: Sky Cinema Drama & Romance HD
+http://iptvtool.es:9977/live/CAMI/CAMI/27131.ts
+#EXTINF:-1,UK: Sky Cinema Family HD
+http://iptvtool.es:9977/live/CAMI/CAMI/27130.ts
+#EXTINF:-1,UK: Sky Cinema Premier HD
+http://iptvtool.es:9977/live/CAMI/CAMI/27129.ts
